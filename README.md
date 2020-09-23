@@ -1,4 +1,4 @@
-#  ``Hotel Reservation Cancellation Prediction``
+#  ``Hotel Booking Cancellation Prediction``
 
 Dataset berisi informasi pemesanan kamar hotel (*booking information*) baik untuk hotel kota (*city hotel*) maupun hotel resort. Dataset ini juga mengandung kapan *booking* dilakukan, lama menginap, jumlah pengunjung dewasa, anak-anak, dan/atau bayi, serta ketersediaan tempat parkir. Informasi lain mengenai dataset bisa Anda baca di keterangan dataset di bawah ini:
 
